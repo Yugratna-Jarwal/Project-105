@@ -1,0 +1,16 @@
+body{
+    background-color: fuchsia;
+    color: cyan;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.name_of_objects,#result_object_name{
+    color: greenyellow;
+}
+#camera{
+    border: 2px dashed darkred;
+    width: 350;
+    height: 300;
+}
